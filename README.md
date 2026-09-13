@@ -143,9 +143,9 @@ A locally running ChatGPT-style application designed for intelligent conversatio
 
 <td width="50%" valign="top">
 
-## 🔧 UtilityHub
+## 🔧 ServiceHub
 
-### Home Appliance Repair Booking Platform.
+### Home Repair Booking Platform.
 
 A web application designed to simplify the process of booking professional repair services for household appliances.
 
@@ -165,7 +165,7 @@ A web application designed to simplify the process of booking professional repai
 
 <br>
 
-<a href="https://github.com/harieswarreddygelli/UTLITY-HUB">
+<a href="https://github.com/harieswarreddygelli/ServiceHub">
   <img src="https://img.shields.io/badge/View_Project-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
