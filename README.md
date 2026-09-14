@@ -10,13 +10,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:0F766E,70:0891B2,100:2563EB&height=280&section=header&text=HARIESWAR%20REDDY&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="#-about-me">About</a> •
+<!-- <p align="center">
+  <a href="#About Me">About</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-featured-projects">Projects</a> •
   <a href="#-github-activity">Activity</a> •
   <a href="#-connect-with-me">Connect</a>
-</p>
+</p> -->
 
 <br>
 
@@ -114,7 +114,8 @@ I enjoy transforming ideas into practical applications, learning new technologie
 
 ## 🤖 Local AI Chatbot
 
-### Private AI assistant with memory and web intelligence.
+### Local AI Assistant - Memory & Web Search Platform 
+
 
 A locally running ChatGPT-style application designed for intelligent conversations while maintaining privacy and avoiding dependency on paid APIs.
 
@@ -192,20 +193,16 @@ A web application designed to simplify the process of booking professional repai
 -->
 
 # 📊 GitHub Activity
+<!-- 
+# 📊 GitHub Stats: -->
+![](https://github-readme-stats.shion.dev/api?username=harieswarreddygelli&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=harieswarreddygelli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=harieswarreddygelli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=harieswarreddygelli&theme=transparent&hide_border=true"
-    height="180"
-  />
-</p>
+<!-- ---
+[![](https://komarev.com/ghpvc/?username=harieswarreddygelli&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<!-- <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=harieswarreddygelli&theme=github-compact&hide_border=true"
-    width="95%"
-  />
-</p> -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
