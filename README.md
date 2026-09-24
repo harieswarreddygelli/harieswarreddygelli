@@ -1,4 +1,4 @@
-<!-- =====================================================
+   <!-- =====================================================
      COLOR THEME
      Navy → Teal → Cyan → Blue
      Designed to look good in both GitHub Light & Dark Mode
